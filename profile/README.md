@@ -33,7 +33,4 @@
 ![image](https://github.com/YFASS-EnjoyTrip/.github/assets/76652908/0bac5f9d-f71e-4d69-9a09-6f06e1995207)
 
 ## ⚒️ 사용 기술
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySql&logoColor=white">
-<img src="https://img.shields.io/badge/amazon S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySql&logoColor=white"><img src="https://img.shields.io/badge/amazon S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
