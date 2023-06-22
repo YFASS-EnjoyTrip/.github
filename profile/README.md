@@ -12,26 +12,26 @@
 
 ## 🖥️ 화면 구성
 
-### **랜딩페이지**
+### **1.랜딩페이지**
 ![image](https://github.com/YFASS-EnjoyTrip/.github/assets/76652908/932b4762-f900-4f9d-b334-d01156cec129)
 
-### **여행지 검색 및 조회**
+### **2.여행지 검색 및 조회**
 ![image](https://github.com/YFASS-EnjoyTrip/.github/assets/76652908/b6092e33-ab3c-4c14-94e4-94b55015b974)
 
-### **여행지 상세 조회**
+### **3.여행지 상세 조회**
 ![image](https://github.com/YFASS-EnjoyTrip/.github/assets/76652908/efbfb10a-3acc-4896-ae43-9b6030546072)
 
-### **여행지 평점 및 블로그 조회**
+### **4.여행지 평점 및 블로그 조회**
 ![image](https://github.com/YFASS-EnjoyTrip/.github/assets/76652908/2f7ec2ea-b985-45f0-a416-5f8aca4c75e4)
 
-### **플래너 생성**
+### **5.플래너 생성**
 ![image](https://github.com/YFASS-EnjoyTrip/.github/assets/76652908/c5302d9e-7e4e-4676-b2be-94c5fd60300d)
 
-### **플래너 조회 및 편집**
+### **6.플래너 조회 및 편집**
 ![image](https://github.com/YFASS-EnjoyTrip/.github/assets/76652908/821cdfb4-a2ba-460e-89ab-e9baa23d4b81)
 
-### **마이페이지(플래너관리)**
+### **7.마이페이지(플래너관리)**
 ![image](https://github.com/YFASS-EnjoyTrip/.github/assets/76652908/96f6d1eb-c319-4543-9045-74b783587a90)
 
-### **마이페이지(좋아요관리)**
+### **8.마이페이지(좋아요관리)**
 ![image](https://github.com/YFASS-EnjoyTrip/.github/assets/76652908/0bac5f9d-f71e-4d69-9a09-6f06e1995207)
